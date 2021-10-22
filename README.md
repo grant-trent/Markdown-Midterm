@@ -9,7 +9,7 @@ Current Me
 [a relative link](CurrentMe.md)
 
 My Future Goals
-[a relative link](FutrueGoals)
+[a relative link](FutureGoals)
 
 My High School Years
 [a realtive link](HighShcool)
