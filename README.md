@@ -5,6 +5,8 @@ This project is so you can get to know me a little better. My name is Grant Tren
 How I Spend My Free Time
 [a relative link](FreeTime.md)
 
+[Free Time](FreeTime.md)
+
 Current Me
 [a relative link](CurrentMe.md)
 
