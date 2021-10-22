@@ -9,10 +9,10 @@ Current Me
 [a relative link](CurrentMe.md)
 
 My Future Goals
-[a relative link](FutureGoals)
+[a relative link](FutureGoals.md)
 
 My High School Years
-[a realtive link](HighShcool)
+[a realtive link](HighShcool.md)
 
 My K-8th Grade Experience
-[a relative link](K-8th)
+[a relative link](K-8th.md)
