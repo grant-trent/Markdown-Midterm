@@ -12,7 +12,7 @@ My Future Goals
 [a relative link](FutureGoals.md)
 
 My High School Years
-[a realtive link](HighShcool.md)
+[a realtive link](HighSchool.md)
 
 My K-8th Grade Experience
 [a relative link](K-8th.md)
