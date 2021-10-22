@@ -5,5 +5,4 @@ I have much more freedom in college, which is viewed most of the time as a good 
 I spend my week days doing homework, going to class, and studying. I spend my weekends watching football and playing rocket league.
 
 
-Back To Home
-[a relative link](README.md)
+[Back To Home](README.md)
