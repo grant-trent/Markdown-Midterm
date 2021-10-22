@@ -5,3 +5,14 @@ This project is so you can get to know me a little better. My name is Grant Tren
 How I Spend My Free Time
 [a relative link](FreeTime.md)
 
+Current Me
+[a relative link](CurrentMe.md)
+
+My Future Goals
+[a relative link](FutrueGoals)
+
+My High School Years
+[a realtive link](HighShcool)
+
+My K-8th Grade Experience
+[a relative link](K-8th)
