@@ -12,5 +12,4 @@ Here is a list of my favorite TV shows.
 -*Parks and Rec*
 
 
-Back To Home
-[a relative link](README.md)
+[Back To Home](README.md)
