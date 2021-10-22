@@ -6,3 +6,7 @@ I averaged around mid 80's. Unfortunatlly I was in a car accident after my sopho
 After my accident, I realized just how precious life is and I swore to myself that I would cherish every day I had left.
 
 I was able to graduate top 50 in my class with a 3.8 GPA, even after missing an entire semester due to my car accident. 
+
+
+Back To Home
+[a relative link](README.md)
