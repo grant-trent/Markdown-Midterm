@@ -7,5 +7,7 @@ After my accident, I realized just how precious life is and I swore to myself th
 
 I was able to graduate top 50 in my class with a 3.8 GPA, even after missing an entire semester due to my car accident. 
 
+![alt text](http://url/to/img.png)
+
 
 [Back To Home](README.md)
