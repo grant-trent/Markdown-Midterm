@@ -5,3 +5,8 @@ and I also enjoyed staying up late playing video games with friends. I was an av
 I went to a very small elementary school with about 25 kids in my class. Everyone knew everybody which was neat in its own little way.
 
 When I was 13, the baseball team I was on won state and got to go to regionals in Minnesota. We ended up placing next to last, but it was still one of the best times of my life.
+
+
+
+Back To Home
+[a relative link](README.md)
