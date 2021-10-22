@@ -8,5 +8,4 @@ After I graduate college, I would like to be able to keep up with most of my hob
 I hope I don't lose too much time to where I can't do the things I enjoy.
 
 
-Back To Home
-[a relative link](README.md)
+[Back To Home](README.md)
